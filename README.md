@@ -1,2 +1,2 @@
-# simple-perceptor
-A simple implementation of a perceptor that I did for an interview.
+# Simple perceptron
+A simple implementation of a perceptron that I did for an interview.
