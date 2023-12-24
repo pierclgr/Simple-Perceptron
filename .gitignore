@@ -6,9 +6,6 @@ __MACOSX/
 .idea/
 __pycache__
 
-# wandb
-wandb/
-
 # hydra stuff
 outputs/
 
