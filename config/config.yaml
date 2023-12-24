@@ -1,0 +1,11 @@
+# paths of train and test sets files
+train_set_path: data/train.txt
+test_set_path: data/test.txt
+
+# training parameters
+bias: true
+weight_init: zero
+activation: sign_activation
+num_epochs: 10000
+learning_rate: 0.01
+verbose: true
